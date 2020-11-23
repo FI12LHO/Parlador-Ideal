@@ -10,3 +10,4 @@ Servidor
 
 Expo (React Native)
 1. Altere o endereço do servidor (de http://10.0.0.101/ para http://ip-do-servidor) dentro do arquivo "api.js" no caminho "src/services/api.js";
+Obs. Caso não seja feita essa alteração o app não fará acesso ao servidor.
