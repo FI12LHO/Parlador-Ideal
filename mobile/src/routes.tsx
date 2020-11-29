@@ -2,8 +2,8 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-import CreatePost from './pages/create post';
-import ShowPost from './pages/show post';
+import CreatePost from './pages/create_post';
+import ShowPost from './pages/show_post';
 import Home from './pages/home';
 import Login from './pages/login';
 import Register from './pages/register';
