@@ -1,5 +1,6 @@
 # Parlador Ideal
-### Getting started
+### Getting started  
+Para executar o projeto, será necessário ter instalado
 - NodeJs: 12x
 - Expo: 3.28.5
 ### Desenvolvimento
